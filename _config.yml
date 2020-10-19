@@ -108,7 +108,7 @@ algolia:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:liudih/blog.git
+  repo: https://github.com/liudihh/liudihh.github.io.git
   branch: gh-pages
   # type: git
   # repo: git@gitee.com:liudih/liudih.git
