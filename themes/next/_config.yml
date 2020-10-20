@@ -177,11 +177,12 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/liudih || fab fa-github
+  GitHub: https://github.com/liudihh || fab fa-github
   E-Mail: mailto:admin@xykzs.com || fa fa-envelope
   hexo-doc: https://hexo.io/zh-cn/docs/github-pages || fab fa-github
   travis-ci: https://travis-ci.com/ || fab fa-weibo
   my-cdn: https://console.upyun.com/services/cdn/ || fab fa-google
+  vercel.com: https://vercel.com/liudihh || fab fa-facebook
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
