@@ -8,6 +8,10 @@ branches:
     - main # build master branch only
 script:
   - hexo generate # generate static files
+  - export HEXO_ALGOLIA_INDEXING_KEY=c18a2276833e929eff4ab195ecf8480f
+  - hexo algolia
+  - pwd
+  - echo "结束》》》========"
 deploy:
   provider: pages
   skip-cleanup: true
