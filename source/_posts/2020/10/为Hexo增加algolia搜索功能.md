@@ -11,6 +11,8 @@ categories:
 
 [Hexo+Next集成Algolia搜索](https://segmentfault.com/a/1190000018803949)
 
+[github: hexo-algolia](https://github.com/oncletom/hexo-algolia)
+
 
 ```
 windows：
