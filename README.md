@@ -16,4 +16,4 @@ hexo 提供支持
 
 
 
-[b.pangyu.net](b.pangyu.net)
+[b.pangyu.net](https://b.pangyu.net)
