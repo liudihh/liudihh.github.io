@@ -200,7 +200,7 @@ social_icons:
 # Blog rolls
 links_settings:
   icon: fa fa-link
-  title: Links
+  title: 模仿的Links
   # Available values: block | inline
   layout: block
 
@@ -209,6 +209,7 @@ links:
   tang.su: https://tang.su/
   diygod.me: https://diygod.me/
   www.yunyoujun.cn: https://www.yunyoujun.cn/note/use-cdn-speed-up-site/
+  plushine.cn: https://plushine.cn/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
