@@ -100,6 +100,7 @@ theme: next
 #theme: hexo-theme-sagiri
 
 # Algolia Search API Key
+# 需配置环境变量 export HEXO_ALGOLIA_INDEXING_KEY=3e0f37de07a56a7044ee7df017b8af85
 algolia:
   applicationID: 'BS9ECMOMZ9'
   apiKey: '3e0f37de07a56a7044ee7df017b8af85'
