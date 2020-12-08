@@ -101,8 +101,8 @@ theme: next
 
 # Algolia Search API Key
 algolia:
-  applicationID: '7P8B85QJAX'
-  apiKey: 'c18a2276833e929eff4ab195ecf8480f'
+  applicationID: 'BS9ECMOMZ9'
+  apiKey: '3e0f37de07a56a7044ee7df017b8af85'
   indexName: 'b.pangyu.net'
 
 
