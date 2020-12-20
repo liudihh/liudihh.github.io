@@ -8,7 +8,7 @@ branches:
     - main # build master branch only
 script:
   - hexo generate # generate static files
-  - export HEXO_ALGOLIA_INDEXING_KEY=c18a2276833e929eff4ab195ecf8480f
+  - export HEXO_ALGOLIA_INDEXING_KEY=3e0f37de07a56a7044ee7df017b8af85
   - hexo algolia
   - pwd
   - echo "结束》》》========"
